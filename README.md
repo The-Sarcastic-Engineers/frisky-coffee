@@ -20,9 +20,11 @@ http-server
 -----------
 You should see something like the following:
 
-C:\projects\website1>http-server
+C:\projects\website1>http-server <br>
 Starting up http-server, serving ./
-Available on:
+Available on:<br>
+<pre>
   http://192.168.0.5:8080
   http://127.0.0.1:8080
+</pre>
 Hit CTRL-C to stop the server
